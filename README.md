@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# OUTPUT:
+
+
+**OUTPUT:**
 - Compressing the data
   <img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/ca7dc1ce-aa86-4e76-b087-c9bf0429bb0d" />
  
